@@ -1,4 +1,5 @@
 Rosalind_Bioinformatics
 =======================
 
-Bioinformatics Stronghold
+Bioinformatics Stronghold: 
+https://rosalind.info/problems
